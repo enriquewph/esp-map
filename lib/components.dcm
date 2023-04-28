@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1233
+D 150-nA, Ultralow Power, Supply Voltage Monitor, SOT-23
+K supply voltage supervisor
+F https://datasheets.maximintegrated.com/en/ds/DS1233A.pdf
+$ENDCMP
+#
+#End Doc Library

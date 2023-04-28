@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name libs)(type KiCad)(uri ${KIPRJMOD}/lib/libs.pretty)(options "")(descr ""))
+  (lib (name esp32-wroom-roover)(type KiCad)(uri ${KIPRJMOD}/lib/esp32-wroom-roover.pretty)(options "")(descr ""))
+  (lib (name esp32-wroover)(type KiCad)(uri ${KIPRJMOD}/lib/esp32-wroover)(options "")(descr ""))
+)
