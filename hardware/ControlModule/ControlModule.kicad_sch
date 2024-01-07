@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 13824b73-1bec-4a82-a782-c36a8e454bcc)
+
+  (paper "A4")
+
+  (title_block
+    (title "ESP-MAP ESP32 Control Module ETH/RS485")
+    (date "2024-01-07")
+    (rev "0.1")
+    (comment 1 "https://github.com/enriquewph/esp-map/")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
