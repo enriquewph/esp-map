@@ -3,6 +3,15 @@
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
 # Temporary files
+
+kicad-backups
+*-bak
+*-backups
+*-cache*
+*-bak*
+_autosave*
+\#auto_saved_files\#
+
 *.000
 *.bak
 *.bck

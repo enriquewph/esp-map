@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="112mm"
+   height="32mm"
+   version="1.1"
+   viewBox="0 0 112 32"
+   id="svg43"
+   sodipodi:docname="espmap_light.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title588">ESP-PLC Logo</title>
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#858585"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.1782467"
+     inkscape:cx="197.86556"
+     inkscape:cy="56.008349"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs19">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath311">
+      <g
+         id="g315">
+        <rect
+           x="76.005997"
+           y="47.710541"
+           width="52.873001"
+           height="42.237"
+           opacity="0.73152"
+           stroke-width="0.26458"
+           id="rect313" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath317">
+      <g
+         id="g321">
+        <rect
+           x="76.005997"
+           y="47.710541"
+           width="52.873001"
+           height="42.237"
+           opacity="0.73152"
+           stroke-width="0.26458"
+           id="rect319" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath323">
+      <g
+         id="g327">
+        <rect
+           x="76.005997"
+           y="47.710541"
+           width="52.873001"
+           height="42.237"
+           opacity="0.73152"
+           stroke-width="0.26458"
+           id="rect325" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath329">
+      <g
+         id="g333">
+        <rect
+           x="76.005997"
+           y="47.710541"
+           width="52.873001"
+           height="42.237"
+           opacity="0.73152"
+           stroke-width="0.26458"
+           id="rect331" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath335">
+      <g
+         id="g339">
+        <rect
+           x="76.005997"
+           y="47.710541"
+           width="52.873001"
+           height="42.237"
+           opacity="0.73152"
+           stroke-width="0.26458"
+           id="rect337" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath341">
+      <g
+         id="g345">
+        <rect
+           x="76.005997"
+           y="47.710541"
+           width="52.873001"
+           height="42.237"
+           opacity="0.73152"
+           stroke-width="0.26458"
+           id="rect343" />
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="fondo"
+     transform="matrix(0.97006714,0,0,0.8760401,-7.2562344,-8.2935115)">
+    <path
+       id="rect351"
+       style="stroke:#000000;stroke-width:0;fill:#ffffff"
+       d="M 7.4801369,9.4670458 H 122.93606 V 45.995053 H 7.4801369 Z" />
+    <path
+       id="rect608"
+       style="fill:#000000;stroke:#000000;stroke-width:0"
+       d="M 11.088135,13.462296 H 59.641476 V 41.999802 H 11.088135 Z" />
+  </g>
+  <g
+     id="g666"
+     style="fill:#ffffff">
+    <path
+       d="m 10.959559,20.846162 h 6.929297 v 3.807699 H 6.9999607 V 7.3461396 H 17.765119 v 3.8076984 h -6.80556 v 2.868137 h 6.186872 v 3.758248 h -6.186872 z"
+       style="font-weight:bold;font-size:24.7364px;font-family:Gilroy-ExtraBold;-inkscape-font-specification:'Gilroy-ExtraBold Bold';fill:#ffffff;stroke:#000000;stroke-width:0"
+       id="path490" />
+    <path
+       d="m 26.179283,25.000016 q -2.647982,0 -4.429801,-1.137365 -1.757071,-1.162089 -2.499496,-3.140116 l 3.415153,-1.978025 q 1.039395,2.398356 3.637881,2.398356 2.351012,0 2.351012,-1.409343 0,-0.766485 -0.767173,-1.186815 -0.742425,-0.445056 -2.821213,-1.013738 -1.08889,-0.296704 -1.905557,-0.667584 -0.816667,-0.370879 -1.608587,-0.964287 -0.767173,-0.618133 -1.187879,-1.532969 -0.395961,-0.914837 -0.395961,-2.101653 0,-2.3983552 1.707578,-3.8324235 1.732324,-1.4340684 4.108082,-1.4340684 2.128285,0 3.761619,1.013738 1.633335,0.9890127 2.573739,2.8928619 l -3.340911,1.9533 q -0.470202,-0.989013 -1.163132,-1.483519 -0.692929,-0.519231 -1.831315,-0.519231 -0.890909,0 -1.385859,0.395604 -0.470202,0.37088 -0.470202,0.914837 0,0.642858 0.59394,1.11264 0.618687,0.469781 2.524244,1.038463 1.039395,0.321429 1.608587,0.519231 0.569192,0.197803 1.435354,0.667584 0.89091,0.445056 1.336365,0.964288 0.470202,0.494506 0.816667,1.335166 0.371212,0.815935 0.371212,1.879125 0,2.472531 -1.781819,3.9066 -1.78182,1.409343 -4.652528,1.409343 z"
+       style="font-weight:bold;font-size:24.7364px;font-family:Gilroy-ExtraBold;-inkscape-font-specification:'Gilroy-ExtraBold Bold';fill:#ffffff;stroke:#000000;stroke-width:0"
+       id="path492" />
+    <path
+       d="m 41.027776,7.3461396 q 2.548991,0 4.306062,1.7307721 1.757072,1.7307723 1.757072,4.2033043 0,2.472531 -1.757072,4.203303 -1.757071,1.730772 -4.306062,1.730772 h -2.598488 v 5.43957 H 34.46969 V 7.3461396 Z m 0,8.1593544 q 0.915656,0 1.509596,-0.642858 0.59394,-0.642859 0.59394,-1.58242 0,-0.939562 -0.59394,-1.582421 -0.59394,-0.642858 -1.509596,-0.642858 h -2.598488 v 4.450557 z"
+       style="font-weight:bold;font-size:24.7364px;font-family:Gilroy-ExtraBold;-inkscape-font-specification:'Gilroy-ExtraBold Bold';fill:#ffffff;stroke:#000000;stroke-width:0"
+       id="path494" />
+  </g>
+  <g
+     id="g671"
+     style="fill:#000000">
+    <path
+       d="M 72.580828,7.3461396 V 24.653861 H 68.621229 V 14.590657 l -4.479295,7.343419 H 63.696479 L 59.217183,14.590657 V 24.653861 H 55.257585 V 7.3461396 h 3.959598 l 4.702023,7.6895734 4.702023,-7.6895734 z"
+       style="font-weight:bold;font-size:24.7364px;font-family:Gilroy-ExtraBold;-inkscape-font-specification:'Gilroy-ExtraBold Bold';fill:#000000;stroke:#000000;stroke-width:0"
+       id="path496" />
+    <path
+       d="m 86.563155,24.653861 -0.866162,-2.719785 h -6.434347 l -0.866163,2.719785 h -4.33081 L 79.955575,7.3461396 h 5.048488 l 5.889903,17.3077214 z m -6.11263,-6.428582 h 4.058588 l -2.029294,-6.354407 z"
+       style="font-weight:bold;font-size:24.7364px;font-family:Gilroy-ExtraBold;-inkscape-font-specification:'Gilroy-ExtraBold Bold';fill:#000000;stroke:#000000;stroke-width:0"
+       id="path498" />
+    <path
+       d="m 98.936903,7.3461396 q 2.548997,0 4.306057,1.7307721 1.75708,1.7307723 1.75708,4.2033043 0,2.472531 -1.75708,4.203303 -1.75706,1.730772 -4.306057,1.730772 h -2.598487 v 5.43957 H 92.378818 V 7.3461396 Z m 0,8.1593544 q 0.915657,0 1.509597,-0.642858 0.59394,-0.642859 0.59394,-1.58242 0,-0.939562 -0.59394,-1.582421 -0.59394,-0.642858 -1.509597,-0.642858 h -2.598487 v 4.450557 z"
+       style="font-weight:bold;font-size:24.7364px;font-family:Gilroy-ExtraBold;-inkscape-font-specification:'Gilroy-ExtraBold Bold';fill:#000000;stroke:#000000;stroke-width:0"
+       id="path500" />
+  </g>
+  <metadata
+     id="metadata586">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>ESP-PLC Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Enrique W. Philippeaux</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
