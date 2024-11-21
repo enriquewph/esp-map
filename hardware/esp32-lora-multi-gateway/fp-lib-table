@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp-map-footprints")(type "KiCad")(uri "D:/dev/ESP-MAP/kicad-libraries/esp-map-footprints")(options "")(descr ""))
+)

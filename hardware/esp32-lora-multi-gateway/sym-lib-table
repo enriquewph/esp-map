@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp-map-devices")(type "KiCad")(uri "D:/dev/ESP-MAP/kicad-libraries/esp-map-devices/esp-map-devices.kicad_sym")(options "")(descr ""))
+)
