@@ -390,6 +390,10 @@
     [
       "eae18bfe-5d64-4389-b6f8-8f8c49b4d659",
       "Power Supply"
+    ],
+    [
+      "5fe6467e-2b36-4007-bd90-9ae83319378a",
+      "USB-UART"
     ]
   ],
   "text_variables": {}
