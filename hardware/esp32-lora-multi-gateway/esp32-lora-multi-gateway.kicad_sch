@@ -10934,7 +10934,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "esp-map-footprints:MicroSD_PUSH-PUSH"
 			(at 298.45 118.11 0)
 			(effects
 				(font
@@ -10943,7 +10943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://tienda.ityt.com.ar/porta-sd/2696-micro-sd-card-z%C3%B3calo-resorte-push-15x15mm-socket-itytarg.html"
+		(property "Datasheet" "https://ityt.com.ar/datasheets/zocalos/SIM/3020-901-0001-MicroSD_PUSH-PUSH.pdf"
 			(at 246.38 133.35 0)
 			(effects
 				(font
