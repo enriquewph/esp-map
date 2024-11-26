@@ -5763,12 +5763,6 @@
 		(uuid "4dc4909f-4bc3-4baa-b782-ba2d4f22df2a")
 	)
 	(junction
-		(at 132.08 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "65f1f217-351d-42f9-949e-53aa6b74993b")
-	)
-	(junction
 		(at 196.85 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6184,16 +6178,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 137.16) (xy 152.4 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a606882-d3fe-4e89-b445-fa0294df2dd4")
-	)
-	(wire
-		(pts
 			(xy 109.22 168.91) (xy 116.84 168.91)
 		)
 		(stroke
@@ -6454,7 +6438,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 137.16) (xy 132.08 137.16)
+			(xy 123.19 137.16) (xy 152.4 137.16)
 		)
 		(stroke
 			(width 0)
@@ -6811,16 +6795,6 @@
 			(type default)
 		)
 		(uuid "604db31b-7299-4eb5-89aa-3e0eae19810b")
-	)
-	(wire
-		(pts
-			(xy 132.08 137.16) (xy 132.08 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6050539e-6aed-4a2b-9e24-d0dd2c949576")
 	)
 	(wire
 		(pts
@@ -8589,6 +8563,17 @@
 		)
 		(uuid "238e47be-0485-4a6b-9f00-73831d6304a8")
 	)
+	(label "+5V_EN"
+		(at 139.7 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "296bc268-0210-4f3b-8dd3-ffc814e757b3")
+	)
 	(label "S1_DIO1"
 		(at 72.39 91.44 180)
 		(fields_autoplaced yes)
@@ -10071,7 +10056,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 207.01 166.37 0)
+		(at 203.2 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10080,7 +10065,7 @@
 		(fields_autoplaced yes)
 		(uuid "00b61604-8036-4c93-a385-334aaa39a72a")
 		(property "Reference" "H4"
-			(at 209.55 163.83 0)
+			(at 205.74 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10089,7 +10074,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 209.55 166.37 0)
+			(at 205.74 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10099,7 +10084,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
-			(at 207.01 166.37 0)
+			(at 203.2 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10108,7 +10093,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 166.37 0)
+			(at 203.2 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10117,7 +10102,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 166.37 0)
+			(at 203.2 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10860,7 +10845,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 199.39 168.91 0)
+		(at 195.58 168.91 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10869,7 +10854,7 @@
 		(dnp no)
 		(uuid "16511d9d-b6ac-411d-9e99-228cfd8322f9")
 		(property "Reference" "#PWR034"
-			(at 199.39 175.26 0)
+			(at 195.58 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10878,7 +10863,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 199.263 173.3042 0)
+			(at 195.453 173.3042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10886,7 +10871,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 199.39 168.91 0)
+			(at 195.58 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10895,7 +10880,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 168.91 0)
+			(at 195.58 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10904,7 +10889,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 168.91 0)
+			(at 195.58 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11527,7 +11512,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 184.15 166.37 0)
+		(at 180.34 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11536,7 +11521,7 @@
 		(fields_autoplaced yes)
 		(uuid "361d7e8a-6599-41ab-b564-5a79eefe5e21")
 		(property "Reference" "H1"
-			(at 186.69 163.83 0)
+			(at 182.88 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11545,7 +11530,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 186.69 166.37 0)
+			(at 182.88 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11555,7 +11540,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
-			(at 184.15 166.37 0)
+			(at 180.34 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11564,7 +11549,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 184.15 166.37 0)
+			(at 180.34 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11573,7 +11558,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 184.15 166.37 0)
+			(at 180.34 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11893,7 +11878,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 184.15 168.91 0)
+		(at 180.34 168.91 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11902,7 +11887,7 @@
 		(dnp no)
 		(uuid "3d6808ff-0959-4a55-baa9-587bf53c709e")
 		(property "Reference" "#PWR032"
-			(at 184.15 175.26 0)
+			(at 180.34 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11911,7 +11896,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 184.023 173.3042 0)
+			(at 180.213 173.3042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11919,7 +11904,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 184.15 168.91 0)
+			(at 180.34 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11928,7 +11913,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 168.91 0)
+			(at 180.34 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11937,7 +11922,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 184.15 168.91 0)
+			(at 180.34 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12527,6 +12512,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 210.82 166.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "48a7eada-ea14-4dbe-87e0-79d9ac95d938")
+		(property "Reference" "H5"
+			(at 213.36 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 213.36 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
+			(at 210.82 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 210.82 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b755903d-c413-4f2a-9ef8-32afd76a4f9b")
+		)
+		(instances
+			(project "esp32-lora-multi-gateway"
+				(path "/6ac403a7-640e-4523-b8d7-347995594e1b"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 271.78 57.15 0)
 		(mirror y)
@@ -12674,72 +12727,6 @@
 			(project "esp32-lora-multi-gateway"
 				(path "/6ac403a7-640e-4523-b8d7-347995594e1b"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 132.08 146.05 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4a8d80c8-cd70-4823-9aec-dc3ace1ad145")
-		(property "Reference" "#PWR055"
-			(at 132.08 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 131.953 150.4442 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bcedb8e9-abf4-435e-b0c5-264a423215b2")
-		)
-		(instances
-			(project "esp32-lora-multi-gateway"
-				(path "/6ac403a7-640e-4523-b8d7-347995594e1b"
-					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -14240,7 +14227,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 191.77 166.37 0)
+		(at 187.96 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14249,7 +14236,7 @@
 		(fields_autoplaced yes)
 		(uuid "853b6ad2-26d5-49d3-a0f4-d31097fd95f8")
 		(property "Reference" "H2"
-			(at 194.31 163.83 0)
+			(at 190.5 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14258,7 +14245,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 194.31 166.37 0)
+			(at 190.5 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14268,7 +14255,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
-			(at 191.77 166.37 0)
+			(at 187.96 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14277,7 +14264,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 166.37 0)
+			(at 187.96 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14286,7 +14273,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 166.37 0)
+			(at 187.96 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14960,7 +14947,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 191.77 168.91 0)
+		(at 187.96 168.91 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14969,7 +14956,7 @@
 		(dnp no)
 		(uuid "a764bcef-fb27-4422-aef1-7ccb6af4ef75")
 		(property "Reference" "#PWR033"
-			(at 191.77 175.26 0)
+			(at 187.96 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14978,7 +14965,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 191.643 173.3042 0)
+			(at 187.833 173.3042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14986,7 +14973,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 191.77 168.91 0)
+			(at 187.96 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14995,7 +14982,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 168.91 0)
+			(at 187.96 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15004,7 +14991,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 168.91 0)
+			(at 187.96 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15129,7 +15116,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 199.39 166.37 0)
+		(at 195.58 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15138,7 +15125,7 @@
 		(fields_autoplaced yes)
 		(uuid "adedebca-5a45-4fff-9f68-f4698eb98d08")
 		(property "Reference" "H3"
-			(at 201.93 163.83 0)
+			(at 198.12 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15147,7 +15134,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 201.93 166.37 0)
+			(at 198.12 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15157,7 +15144,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad"
-			(at 199.39 166.37 0)
+			(at 195.58 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15166,7 +15153,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 166.37 0)
+			(at 195.58 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15175,7 +15162,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 166.37 0)
+			(at 195.58 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16359,34 +16346,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 132.08 142.24 0)
+		(lib_id "power:GND")
+		(at 210.82 168.91 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "d76492ff-836d-4f34-b69d-3b4a1a90be0b")
-		(property "Reference" "C10"
-			(at 135.001 141.0716 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 135.001 143.383 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 133.0452 146.05 0)
+		(uuid "e02708a2-5222-401c-95a0-4e8298e26f6d")
+		(property "Reference" "#PWR055"
+			(at 210.82 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16394,8 +16364,25 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf"
-			(at 132.08 142.24 0)
+		(property "Value" "GND"
+			(at 210.693 173.3042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16404,25 +16391,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage" "50V"
-			(at 132.08 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" "CC1206KRX7R9BB104"
-			(at 132.08 142.24 0)
+			(at 210.82 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16431,15 +16400,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7cb569c5-13e0-4784-a931-b9d8ea9fc200")
-		)
-		(pin "2"
-			(uuid "0d1e462b-bfde-4f2f-8d79-bbbcdca821e8")
+			(uuid "2cf3ae2f-ae77-493b-9bfa-a1616f6c3752")
 		)
 		(instances
 			(project "esp32-lora-multi-gateway"
 				(path "/6ac403a7-640e-4523-b8d7-347995594e1b"
-					(reference "C10")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -16522,7 +16488,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 207.01 168.91 0)
+		(at 203.2 168.91 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16531,7 +16497,7 @@
 		(dnp no)
 		(uuid "e2512bad-fa2d-440b-9b6a-37e087137af2")
 		(property "Reference" "#PWR035"
-			(at 207.01 175.26 0)
+			(at 203.2 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16540,7 +16506,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 206.883 173.3042 0)
+			(at 203.073 173.3042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16548,7 +16514,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 207.01 168.91 0)
+			(at 203.2 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16557,7 +16523,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 168.91 0)
+			(at 203.2 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16566,7 +16532,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 168.91 0)
+			(at 203.2 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17314,7 +17280,6 @@
 	(symbol
 		(lib_id "Device:Crystal_GND3_Small")
 		(at 100.33 80.01 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17330,7 +17295,7 @@
 			)
 		)
 		(property "Value" "32768Hz"
-			(at 106.68 81.28 0)
+			(at 106.68 82.296 0)
 			(effects
 				(font
 					(size 1.27 1.27)

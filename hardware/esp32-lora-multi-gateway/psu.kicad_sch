@@ -4583,7 +4583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-27_P5.08mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_THT:D_DO-15_P3.81mm_Vertical_AnodeUp"
 			(at 53.34 101.6 0)
 			(effects
 				(font
